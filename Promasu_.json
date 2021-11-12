@@ -5,7 +5,7 @@
         [3, "11/12/20255 Promasu Devs: 4 is now live. We Are Working On the problems of Promasu."]
     ],
     "testt": {
-        "autofarm": "Offline",
+        "autofarm": "Online",
         "queue_kick": "Online",
         "autohtc": "Online"
     }
