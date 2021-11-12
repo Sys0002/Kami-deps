@@ -6,7 +6,7 @@
     ],
     "testt": {
         "autofarm": "Offline",
-        "queue_kick": "Online",
+        "queue": "Online",
         "autohtc": "Online"
     }
 }
