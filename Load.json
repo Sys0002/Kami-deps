@@ -1,12 +1,12 @@
 {
-    "NewInfo": [
-        [1, "11/12/2021 Promasu Devs: 4 is now live. We Are Working On the problems of Promasu"],
-        [2, "11/12/20244 Promasu Devs: 4 is now live. We Are Working On the problems of Promasu"],
-        [3, "11/12/20255 Promasu Devs: 4 is now live. We Are Working On the problems of Promasu."]
+    "FucData": [
+        [1, "test."],
+        [2, "test."],
+        [3, "test."]
     ],
     "StatusInfo": {
-        "autofarm": "Offline",
+        "autofarm": "Online",
         "queue": "Online",
         "autohtc": "Online"
+       }
     }
-}
