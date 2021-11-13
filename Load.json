@@ -1,12 +1,12 @@
 {
     "FData": [
-        [1, "test."],
-        [2, "test."],
-        [3, "test."]
+        [1, "Promasu Is currently working on the scripts, will come tomorrow or smth."],
+        [2, ""],
+        [3, ""]
     ],
     "StatusInfo": {
         "autofarm": "Online",
-        "queue": "Offline",
-        "autohtc": "Offline"
+        "queue": "Online",
+        "autohtc": "Online"
        }
     }
