@@ -2,11 +2,11 @@
     "FData": [
         [1, ""],
         [2, ""],
-        [3, "Auto HTC, and Auto Farm is out. Just working on the promasu hub"]
+        [3, "Every Promasu Script Is Working!"]
     ],
     "StatusInfo": {
         "autofarm": "Online",
-        "promasuhub": "Making",
+        "promasuhub": "Online",
         "autohtc": "Online"
       }
    }
